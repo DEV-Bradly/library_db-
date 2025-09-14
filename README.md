@@ -1,4 +1,4 @@
-# 📚 LIBRARYDATABASE SYSTEM 
+# 📚** LIBRARY  DATABASE SYSTEM** 
 
 This project is a **MySQL relational database** for managing a **secondary school library**.  
 It was designed to handle **students, books, borrowings, services, and penalties**, following the real needs of a school library.
@@ -96,19 +96,19 @@ Apart from borrowing, the library provides extra services:
    ```bash
    git clone https://github.com/DEV-Bradly/library_db-.git
    cd library_db-
-Open MySQL and create the database:
+## Open MySQL and create the database:
 
 CREATE DATABASE library_db;
 USE library_db;
 
-import the SQL file
+## import the SQL file
 SOURCE library_db.sql;
 
-confirm  tables
+## confirm  tables
 SHOW TABLES;
 
 
-📈 Future Improvements
+📈 ***  Future Improvements ***
 
 Add Librarian/Admin accounts for management.
 
