@@ -101,15 +101,12 @@ Open MySQL and create the database:
 CREATE DATABASE library_db;
 USE library_db;
 
-
-Import the SQL file:
-
+import the SQL file
 SOURCE library_db.sql;
 
-
-Confirm tables:
-
+confirm  tables
 SHOW TABLES;
+
 
 📈 Future Improvements
 
